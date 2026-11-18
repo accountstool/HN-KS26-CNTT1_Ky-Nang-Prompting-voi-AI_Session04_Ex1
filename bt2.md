@@ -70,6 +70,9 @@ Cấu trúc đầu ra:
 Chỉ xuất nội dung bài viết, không giải thích thêm.
 
 ```
+## Quy tắc xử lí khi bị đứt gãy ngữ cảnh 
 
-
-
+Viết tiếp ngay sau cụm từ cuối cùng: “dán chính xác 4-6 từ cuối trước điểm ngắt”.
+Giữ nguyên giọng điệu chuyên nghiệp, tin cậy. 
+Không lặp lại bất kỳ đoạn nào đã viết. 
+Tiếp tục đúng cấu trúc H2/H3 đang viết dở.
