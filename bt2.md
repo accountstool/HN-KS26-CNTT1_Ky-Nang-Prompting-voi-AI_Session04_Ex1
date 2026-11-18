@@ -1,4 +1,4 @@
-##Prompt 1 nghiên cứu đối tượng và pain points
+## Prompt 1 nghiên cứu đối tượng và pain points
 ```
 Bạn là chuyên gia nghiên cứu thị trường B2B công nghệ. 
 Hãy phân tích khách hàng mục tiêu của giải pháp AI Chatbot dành cho doanh nghiệp vừa và nhỏ tại Việt Nam năm 2026.
